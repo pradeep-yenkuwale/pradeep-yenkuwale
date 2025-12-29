@@ -7,7 +7,7 @@ I focus on clean architecture, performance, and real-world problem solving — n
 
 ## 🔧 What I Work With
 - **Backend:** Node.js, NestJS, FastAPI
-- **Databases:** MongoDB, PostgreSQL, Redis
+- **Databases:** MongoDB, MySQL, Redis
 - **Architecture:** REST APIs, real-time systems, microservices
 - **Infra & Tools:** Docker, GitHub Actions, CI/CD
 - **Mindset:** Scalability, reliability, maintainability
