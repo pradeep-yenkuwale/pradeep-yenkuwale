@@ -51,4 +51,4 @@ I focus on clean architecture, performance, and real-world problem solving — n
 
 ## 🔗 Connect
 - GitHub: https://github.com/pradeep-yenkuwale
-- LinkedIn: *(add link)*
+- LinkedIn: https://www.linkedin.com/in/pradeep-yenkuwale-a256a6a5/
