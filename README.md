@@ -15,11 +15,11 @@ I focus on clean architecture, performance, and real-world problem solving — n
 ---
 
 ## 🚀 Featured Projects
-### 🔹 Realtime Matchmaking / Messaging Backend
+### 🔹 Realtime Matchmaking and one to one Messaging system
 - Built with NestJS & Redis
 - Handles real-time user matching with queue management
-- Focus on performance, concurrency, and fault tolerance  
-👉 Repo: *(add link)*
+- Focus on performance, concurrency, and fault tolerance
+- Project type - Personal hence private
 
 ### 🔹 Inventory Management System (Backend)
 - RESTful APIs with role-based access
