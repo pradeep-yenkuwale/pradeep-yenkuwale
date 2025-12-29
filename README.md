@@ -1,4 +1,4 @@
-# Hi, I'm Pradeep 👋
+# Hi, I'm Pradeep Yenkuwale👋
 
 Senior Software Engineer with 8+ years of experience building scalable backend systems and product-driven platforms.
 I focus on clean architecture, performance, and real-world problem solving — not just features.
