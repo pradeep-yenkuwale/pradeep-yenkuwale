@@ -14,10 +14,10 @@
 ## 🧩 How I Think About Engineering<br>- Prefer **simple systems that scale**, not over-engineered ones<br>- Write code that another engineer can own tomorrow<br>- Strong believer in **clear APIs, good defaults, and observability**<br><br>---<br><br>
 
 ## 📌 Currently Interested In<br>
-#### - Distributed systems<br>
-#### - Real-time architectures<br>
-#### - Backend performance optimization<br>
-#### - Product-focused engineering roles<br><br>---<br><br>
+- Distributed systems<br>
+- Real-time architectures<br>
+- Backend performance optimization<br>
+- Product-focused engineering roles<br><br>---<br><br>
 
 ## 🔗 Connect<br>
 - GitHub: https://github.com/pradeep-yenkuwale<br>
