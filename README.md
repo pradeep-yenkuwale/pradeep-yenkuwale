@@ -19,7 +19,8 @@
 - Project type - Personal hence private<br><br>
 
 ### 🔹 Inventory Management System (Backend)<br>
-- RESTful APIs with role-based access<br>- Clean modular architecture<br>
+- RESTful APIs with role-based access<br>
+- Clean modular architecture<br>
 - Production-ready patterns (logging, validation, error handling)  <br>
 👉 Repo: inventory-app-backend<br><br>
 
@@ -28,7 +29,10 @@
 - Focus on extensibility and system boundaries  <br>
 👉 Repo: ai-assistant-backend<br><br>---<br><br>
 
-## 🧩 How I Think About Engineering<br>- Prefer **simple systems that scale**, not over-engineered ones<br>- Write code that another engineer can own tomorrow<br>- Strong believer in **clear APIs, good defaults, and observability**<br><br>---<br><br>
+## 🧩 How I Think About Engineering<br>
+- Prefer **simple systems that scale**, not over-engineered ones<br>
+- Write code that another engineer can own tomorrow<br>
+- Strong believer in **clear APIs, good defaults, and observability**<br><br>---<br><br>
 
 ## 📌 Currently Interested In<br>
 - Distributed systems<br>
@@ -53,4 +57,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=pradeep-yenkuwale&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
