@@ -54,9 +54,10 @@ Senior Software Engineer with **8+ years** of experience building scalable, AWS-
 
 ## 🧩 How I Think About Engineering
 
-- Prefer **simple systems that scale**, not over-engineered ones
-- Write code that another engineer can own tomorrow
-- Strong believer in **clear APIs, good defaults, and observability**
+- Tackle complex systems, then make them simple to operate — complexity in the problem, not the solution
+- Design for scale and resilience — idempotent services, event-driven workflows, graceful failure
+- Write code another engineer can own tomorrow — clear APIs, good defaults, strong observability
+- Optimize what matters — profile first, measure impact, right-size for cost and performance
 
 ---
 
