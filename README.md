@@ -79,7 +79,7 @@ platform on AWS - owning full-stack decisions from schema to production.
 ## 🔗 Connect
 
 - **LinkedIn:** [pradeep-yenkuwale](https://www.linkedin.com/in/pradeep-yenkuwale-a256a6a5/)
-- **Portfolio:** [pradeep-yenkuwale.github.io/my-portfolio](https://pradeep-yenkuwale.github.io/my-portfolio/)
+- **Portfolio:** [pradeep-yenkuwale](https://pradeep-yenkuwale.github.io/my-portfolio/)
 - **GitHub:** [pradeep-yenkuwale](https://github.com/pradeep-yenkuwale)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pradeep-yenkuwale-a256a6a5) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7633739)
