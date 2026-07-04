@@ -2,7 +2,13 @@
 
 ## Hi, I'm Pradeep Yenkuwale 👋
 
-Senior Software Engineer with **8+ years** of experience building scalable, AWS-deployed distributed systems and event-driven microservices. I focus on clean architecture, performance, and real-world problem solving — not just shipping features.
+Senior Software Engineer (8+ years) specialising in distributed systems, JavaScript/TypeScript backend services, and event-driven
+microservices (Node.js, NestJS, Kafka, RabbitMQ), with proven experience leading technical initiatives and mentoring engineers.
+Architected production systems on AWS (EC2, S3, Lambda, IAM, CloudWatch) serving 10K+ transactions/day at Almatar; eliminated a
+production crash class via MongoDB re-architecture (40% CPU reduction). Full-stack across React, Angular, and Flutter front-ends.
+Hands-on with Python (FastAPI, Flask), GenAI integration patterns, and prompt engineering, and an active practitioner of AI Native
+Software development who guides responsible tool adoption within teams. Solo-architected and deployed Zyntra - a real-time social
+platform on AWS - owning full-stack decisions from schema to production.
 
 ---
 
